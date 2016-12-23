@@ -1,0 +1,22 @@
+References for the Backdoor Web Server are listed as follows:
+
+1)stackoverflow.com - for multithreading of a web server
+http://stackoverflow.com/questions/23828264/how-to-make-a-simple-multithreaded-socket-server-in-python-that-remembers-client
+
+2)tutorialspoint.com - for python coding in general
+http://www.tutorialspoint.com/python/
+
+3)Networking using python-youtube
+https://www.youtube.com/watch?v=XiVVYfgDolU
+
+4)python docs - gzip library:https://docs.python.org/2/library/gzip.html	
+		subprocess module:https://docs.python.org/2/library/subprocess.html
+		sys module:https://docs.python.org/2/library/sys.html
+		socket module:https://docs.python.org/2/howto/sockets.html
+5)http://python.about.com/od/networkingwithpython/ss/PythonWebServer.htm#step9
+
+6)http://insiderattack.blogspot.com/2013/07/hacker-python-3-multi-threaded-tcp-echo.html
+
+7)RFC for HTTP response messages
+
+8)Linux man pages for syscall commands
